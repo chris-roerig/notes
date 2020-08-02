@@ -1,15 +1,15 @@
 # Notes
 
-* [Bash - Check if script has arguments](bash_-_check_if_script_has_arguments.md)
-* [Bash - Convert Uppercase to Lowercase using awk](bash_-_convert_uppercase_to_lowercase_using_awk.md)
-* [Bash - Echo Newline](bash_-_echo_newline.md)
-* [Bash - Extract filename from path](bash_-_extract_filename_from_path.md)
-* [Bash - Get First Line of File](bash_-_get_first_line_of_file.md)
-* [Bash - Iterate over files in a directory](bash_-_iterate_over_files_in_a_directory.md)
-* [Bash - Remove first Character From String](bash_-_remove_first_character_from_string.md)
-* [Bash - Replace Whitespaces with Underscores](bash-replace_whitespaces_with_underscores.md)
-* [C++ - Creating Pointers](c++_-_creating_pointers.md)
-* [Markdown - Link to In-Page Anchor](markdown_-_link_to_in-page_anchor.md)
+* [Bash - Check if script has arguments](#bash_-_check_if_script_has_arguments.md)
+* [Bash - Convert Uppercase to Lowercase using awk](#bash_-_convert_uppercase_to_lowercase_using_awk.md)
+* [Bash - Echo Newline](#bash_-_echo_newline.md)
+* [Bash - Extract filename from path](#bash_-_extract_filename_from_path.md)
+* [Bash - Get First Line of File](#bash_-_get_first_line_of_file.md)
+* [Bash - Iterate over files in a directory](#bash_-_iterate_over_files_in_a_directory.md)
+* [Bash - Remove first Character From String](#bash_-_remove_first_character_from_string.md)
+* [Bash - Replace Whitespaces with Underscores](#bash-replace_whitespaces_with_underscores.md)
+* [C++ - Creating Pointers](#c++_-_creating_pointers.md)
+* [Markdown - Link to In-Page Anchor](#markdown_-_link_to_in-page_anchor.md)
 
 
 
